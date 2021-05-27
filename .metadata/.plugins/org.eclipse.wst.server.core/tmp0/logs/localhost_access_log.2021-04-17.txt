@@ -1,0 +1,11 @@
+127.0.0.1 - - [17/Apr/2021:06:17:40 -0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [17/Apr/2021:06:17:43 -0700] "GET /Web_Project/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Apr/2021:06:17:43 -0700] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [17/Apr/2021:06:17:46 -0700] "GET /Web_Project/admin.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Apr/2021:06:17:58 -0700] "GET /Web_Project/Alogin?id=Admin&pwd=518111 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [17/Apr/2021:06:17:58 -0700] "GET /Web_Project/adminhome.html HTTP/1.1" 200 359
+0:0:0:0:0:0:0:1 - - [17/Apr/2021:06:18:01 -0700] "GET /Web_Project/Showpro HTTP/1.1" 200 272
+0:0:0:0:0:0:0:1 - - [17/Apr/2021:06:18:17 -0700] "GET /Web_Project/Addpro.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [17/Apr/2021:06:18:40 -0700] "GET /Web_Project/Addpro?pid=p103&name=Mi+A3&cat=Mobile&price=13999 HTTP/1.1" 200 31
+0:0:0:0:0:0:0:1 - - [17/Apr/2021:06:20:58 -0700] "GET /Web_Project/Addpro?pid=p104&name=LG+UHD+led&cat=Led+Monitor&price=9999 HTTP/1.1" 200 31
+0:0:0:0:0:0:0:1 - - [17/Apr/2021:06:21:03 -0700] "GET /Web_Project/Showpro HTTP/1.1" 200 435

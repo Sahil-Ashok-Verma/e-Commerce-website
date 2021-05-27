@@ -1,0 +1,509 @@
+
+Apr 15, 2021 06:04:43.49 NEW SESSION
+Apr 15, 2021 06:04:43.49 [4912:8716:0415/060443.488:ERROR:device_event_log_impl.cc(214)] [06:04:43.488] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2021 06:47:07.50 [8228:4092:0415/064707.506:ERROR:device_event_log_impl.cc(214)] [06:47:07.503] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 15, 2021 06:47:07.52 [8228:3876:0415/064707.522:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2021 06:47:29.69 [8228:3876:0415/064729.691:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2021 06:48:22.55 [8228:3876:0415/064822.552:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 15, 2021 06:50:07.24 [8228:3876:0415/065007.244:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 16, 2021 24:56:06.47 NEW SESSION
+Apr 16, 2021 24:56:06.47 [8140:10168:0416/005606.471:ERROR:device_event_log_impl.cc(214)] [00:56:06.471] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 16, 2021 24:56:06.60 [8140:1816:0416/005606.607:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 24:56:31.34 [8140:1816:0416/005631.342:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 24:57:13.79 [8140:1816:0416/005713.790:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 24:58:46.70 [8140:1816:0416/005846.707:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 01:01:52.16 [8140:1816:0416/010152.160:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 01:17:47.86 [8140:1816:0416/011747.861:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 01:17:53.29 [8140:10168:0416/011753.299:ERROR:device_event_log_impl.cc(214)] [01:17:53.298] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+Apr 16, 2021 01:27:47.86 [8140:1816:0416/012747.865:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 01:37:47.87 [8140:1816:0416/013747.869:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 01:52:10.93 [5736:2580:0416/015210.934:ERROR:device_event_log_impl.cc(214)] [01:52:10.934] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 16, 2021 01:52:10.93 [5736:2580:0416/015210.934:ERROR:device_event_log_impl.cc(214)] [01:52:10.936] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 16, 2021 01:52:10.97 [5736:2924:0416/015210.970:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 01:52:34.43 [5736:2924:0416/015234.433:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 01:53:15.42 [5736:2924:0416/015315.426:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 01:55:07.68 [5736:2924:0416/015507.685:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 01:58:45.80 [5736:2924:0416/015845.802:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 02:04:19.72 [5736:2924:0416/020419.728:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 02:14:19.74 [5736:2924:0416/021419.746:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 02:24:19.76 [5736:2924:0416/022419.763:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 02:34:19.77 [5736:2924:0416/023419.771:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 02:36:55.41 [5736:2924:0416/023655.415:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 02:43:39.15 [5736:2580:0416/024339.150:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Apr 16, 2021 02:44:19.78 [5736:2924:0416/024419.786:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 02:45:07.24 [5736:2924:0416/024507.247:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 02:46:50.86 [5736:2924:0416/024650.865:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 02:49:40.52 [5736:2924:0416/024940.524:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 02:57:06.55 [5736:2924:0416/025706.556:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 03:07:06.56 [5736:2924:0416/030706.561:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 03:17:06.56 [5736:2924:0416/031706.567:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 03:27:06.56 [5736:2924:0416/032706.569:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 03:37:06.57 [5736:2924:0416/033706.573:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 16, 2021 06:18:28.13 NEW SESSION
+Apr 16, 2021 06:18:28.14 [6528:4548:0416/061828.017:ERROR:device_event_log_impl.cc(214)] [06:18:28.017] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 16, 2021 06:18:28.31 [6528:6864:0416/061828.317:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 06:18:51.95 [6528:6864:0416/061851.952:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 06:19:49.17 [6528:6864:0416/061949.176:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 06:21:12.37 [6528:6864:0416/062112.372:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 06:24:44.62 [6528:6864:0416/062444.622:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 06:46:44.37 [9412:7556:0416/064644.370:ERROR:device_event_log_impl.cc(214)] [06:46:44.373] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 16, 2021 06:46:44.40 [9412:8952:0416/064644.406:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 06:47:06.06 [9412:8952:0416/064706.064:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 06:47:52.43 [9412:8952:0416/064752.438:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 06:49:15.00 [9412:8952:0416/064915.001:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 06:52:34.02 [9412:8952:0416/065234.020:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 06:58:45.61 [9412:8952:0416/065845.618:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 07:08:45.62 [9412:8952:0416/070845.625:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 07:18:45.64 [9412:8952:0416/071845.643:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 07:28:45.65 [9412:8952:0416/072845.655:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 07:38:45.66 [9412:8952:0416/073845.662:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 07:48:45.68 [9412:8952:0416/074845.680:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 07:58:45.68 [9412:8952:0416/075845.686:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 08:08:45.69 [9412:8952:0416/080845.698:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 08:18:45.70 [9412:8952:0416/081845.705:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 08:29:10.68 [9412:8952:0416/082845.752:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 16, 2021 09:29:06.36 [9412:8952:0416/092906.368:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Apr 17, 2021 06:17:51.48 NEW SESSION
+Apr 17, 2021 06:17:51.48 [10292:9236:0417/061751.488:ERROR:device_event_log_impl.cc(214)] [06:17:51.483] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Apr 22, 2021 02:13:53.00 NEW SESSION
+Apr 22, 2021 02:13:53.00 [4920:4480:0422/021353.003:ERROR:device_event_log_impl.cc(214)] [02:13:52.998] USB: usb_device_handle_win.cc:1056 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 22, 2021 02:13:53.17 [4920:6860:0422/021353.175:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 02:13:53.17 [4920:6860:0422/021353.175:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:13:53.17 [4920:6860:0422/021353.175:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:13:53.17 [4920:6860:0422/021353.175:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:13:53.17 [4920:6860:0422/021353.175:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:14:14.81 [4920:6860:0422/021414.815:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:14:15.29 [4920:6860:0422/021415.296:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:14:19.93 [4920:6860:0422/021419.939:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 02:14:21.03 [4920:6860:0422/021421.032:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:14:21.34 [4920:4480:0422/021421.340:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+Apr 22, 2021 02:14:22.96 [4920:6860:0422/021422.962:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:14:57.14 [4920:6860:0422/021457.141:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:15:08.21 [4920:6860:0422/021508.212:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:15:11.70 [4920:6860:0422/021511.701:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:15:17.41 [4920:6860:0422/021517.409:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 02:15:18.61 [4920:6860:0422/021518.612:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Apr 22, 2021 02:16:11.16 [4920:6860:0422/021611.166:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 02:48:18.12 [4920:6860:0422/024818.125:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 02:48:40.62 [4920:6860:0422/024840.626:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 02:49:29.14 [4920:6860:0422/024929.145:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 02:51:22.43 [4920:6860:0422/025122.436:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 02:54:36.25 [4920:6860:0422/025436.258:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 03:02:19.35 [4920:6860:0422/030219.354:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 03:12:19.36 [4920:6860:0422/031219.367:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 03:22:19.39 [4920:6860:0422/032219.390:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 03:32:19.41 [4920:6860:0422/033219.411:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 03:42:19.41 [4920:6860:0422/034219.413:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 06:27:29.28 [4920:6860:0422/062729.288:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 22, 2021 06:27:29.29 [4920:6668:0422/062729.290:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 22, 2021 06:28:50.79 [4920:14484:0422/062814.333:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 22, 2021 06:29:26.09 [4920:6668:0422/062921.859:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+Apr 22, 2021 06:31:07.31 [4920:14340:0422/063103.132:ERROR:get_updates_processor.cc(257)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+Apr 28, 2021 03:40:33.53 NEW SESSION
+Apr 28, 2021 03:40:33.53 [9832:7916:0428/034033.527:ERROR:device_event_log_impl.cc(214)] [03:40:33.528] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 28, 2021 03:40:33.63 [9832:5104:0428/034033.637:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 28, 2021 03:40:57.17 [9832:5104:0428/034057.172:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 28, 2021 03:41:38.43 [9832:5104:0428/034138.434:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 28, 2021 03:43:22.74 [9832:5104:0428/034322.748:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 28, 2021 03:47:20.62 [9832:5104:0428/034720.626:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 28, 2021 03:53:17.60 [9832:5104:0428/035317.608:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 28, 2021 04:03:17.61 [9832:5104:0428/040317.610:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 28, 2021 04:13:17.61 [9832:5104:0428/041317.613:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Apr 28, 2021 04:23:17.62 [9832:5104:0428/042317.627:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+May 09, 2021 01:24:08.22 NEW SESSION
+May 09, 2021 01:24:08.22 [3956:3256:0509/012408.215:ERROR:device_event_log_impl.cc(214)] [01:24:08.214] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2021 01:24:08.24 [3956:3256:0509/012408.216:ERROR:device_event_log_impl.cc(214)] [01:24:08.215] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2021 01:24:08.56 [3956:320:0509/012408.565:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 01:24:08.56 [3956:320:0509/012408.566:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:24:08.56 [3956:320:0509/012408.567:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:24:08.56 [3956:320:0509/012408.568:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:24:08.56 [3956:320:0509/012408.568:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:24:30.86 [3956:320:0509/012430.862:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:24:32.95 [3956:320:0509/012432.951:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:24:33.07 [3956:320:0509/012433.073:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 01:24:33.49 [3956:320:0509/012433.490:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:24:36.33 [3956:3256:0509/012436.335:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+May 09, 2021 01:24:38.15 [3956:320:0509/012438.157:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:25:13.78 [3956:320:0509/012513.781:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:25:14.98 [3956:320:0509/012514.984:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 01:25:20.94 [3956:320:0509/012520.942:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:25:24.64 [3956:320:0509/012524.649:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:25:32.02 [3956:320:0509/012532.023:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:26:55.44 [3956:320:0509/012655.442:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:27:03.29 [3956:320:0509/012703.292:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:27:04.12 [3956:320:0509/012704.120:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 01:27:07.57 [3956:320:0509/012707.575:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:27:18.65 [3956:320:0509/012718.651:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:30:12.56 [3956:320:0509/013012.567:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:30:27.55 [3956:320:0509/013027.554:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:30:31.45 [3956:320:0509/013031.457:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:30:44.78 [3956:320:0509/013044.780:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 01:30:55.32 [3956:320:0509/013055.324:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:36:39.70 [3956:320:0509/013639.706:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:36:55.10 [3956:320:0509/013655.105:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:36:55.10 [3956:3256:0509/013655.105:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 09, 2021 01:37:33.89 [3956:320:0509/013733.898:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:37:54.84 [3956:320:0509/013754.842:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 01:38:39.31 [3956:320:0509/013839.311:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+May 09, 2021 05:32:45.26 NEW SESSION
+May 09, 2021 05:32:45.26 [9620:2120:0509/053245.257:ERROR:device_event_log_impl.cc(214)] [05:32:45.257] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2021 05:32:45.39 [9620:420:0509/053245.392:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 05:32:45.39 [9620:420:0509/053245.392:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:32:45.39 [9620:420:0509/053245.393:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:32:45.39 [9620:420:0509/053245.393:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:32:45.39 [9620:420:0509/053245.393:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:33:05.61 [9620:420:0509/053305.611:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 05:33:06.67 [9620:420:0509/053306.673:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:33:07.72 [9620:420:0509/053307.721:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:33:08.15 [9620:420:0509/053308.150:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:33:13.52 [9620:420:0509/053313.526:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:33:56.65 [9620:420:0509/053356.658:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 05:34:02.14 [9620:420:0509/053402.142:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:34:06.65 [9620:420:0509/053406.649:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:34:07.11 [9620:420:0509/053407.112:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:34:07.64 [9620:420:0509/053407.639:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:35:36.47 [9620:420:0509/053536.474:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:35:41.52 [9620:420:0509/053541.523:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:35:45.57 [9620:420:0509/053545.573:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:35:51.53 [9620:420:0509/053551.535:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 05:35:53.98 [9620:420:0509/053553.989:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:38:51.03 [9620:420:0509/053851.037:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:38:54.90 [9620:420:0509/053854.908:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 05:38:57.42 [9620:420:0509/053857.428:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:39:01.84 [9620:420:0509/053901.839:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:39:12.00 [9620:420:0509/053912.006:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:44:56.84 [9620:420:0509/054456.841:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:44:56.84 [9620:2120:0509/054456.841:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 09, 2021 05:45:02.72 [9620:420:0509/054502.729:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:45:10.04 [9620:420:0509/054510.042:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:45:50.84 [9620:420:0509/054550.840:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 05:46:31.10 [9620:420:0509/054631.101:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:49:28.03 [9620:420:0509/054928.038:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:49:51.11 [9620:420:0509/054951.114:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:50:32.63 [9620:420:0509/055032.630:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:52:28.15 [9620:420:0509/055228.149:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:55:24.56 [9620:420:0509/055524.564:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 05:55:50.84 [9620:420:0509/055550.843:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 06:01:08.90 [9620:420:0509/060108.905:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 06:01:08.90 [9620:2120:0509/060108.905:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 09, 2021 06:05:50.85 [9620:420:0509/060550.850:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 06:10:25.33 [9620:420:0509/061025.333:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 06:10:52.10 [9620:420:0509/061052.104:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 06:11:33.46 [9620:420:0509/061133.466:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 06:13:15.41 [9620:420:0509/061315.419:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 06:15:50.92 [9620:420:0509/061550.857:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 06:16:27.88 [9620:420:0509/061627.884:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 06:50:53.93 [9620:420:0509/065053.935:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 06:50:53.93 [9620:2120:0509/065053.935:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 09, 2021 06:50:53.95 [9620:420:0509/065053.951:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 07:00:53.96 [9620:420:0509/070053.961:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 07:09:41.71 [9620:420:0509/070941.715:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 07:10:03.49 [9620:420:0509/071003.491:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 07:10:53.97 [9620:420:0509/071053.979:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 07:10:56.79 [9620:420:0509/071056.793:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 07:12:49.63 [9620:420:0509/071249.630:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 07:15:45.41 [9620:420:0509/071545.419:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 07:20:53.98 [9620:420:0509/072053.987:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 07:21:25.02 [9620:420:0509/072125.020:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 07:21:25.02 [9620:2120:0509/072125.020:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 09, 2021 07:30:54.00 [9620:420:0509/073053.999:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 07:40:54.00 [9620:420:0509/074054.000:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 07:50:54.02 [9620:420:0509/075054.020:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 07:59:55.98 [4316:3148:0509/075955.978:ERROR:device_event_log_impl.cc(214)] [07:59:55.982] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2021 07:59:56.01 [4316:7028:0509/075956.017:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 07:59:56.01 [4316:7028:0509/075956.017:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 07:59:56.01 [4316:7028:0509/075956.017:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 07:59:56.01 [4316:7028:0509/075956.017:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 07:59:56.02 [4316:7028:0509/075956.017:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:00:17.68 [4316:7028:0509/080017.685:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 08:00:22.52 [4316:7028:0509/080022.524:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:00:22.87 [4316:7028:0509/080022.871:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:00:23.98 [4316:7028:0509/080023.984:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:00:25.84 [4316:7028:0509/080025.842:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:01:03.17 [4316:7028:0509/080103.168:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 08:01:08.33 [4316:7028:0509/080108.333:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:01:17.48 [4316:7028:0509/080117.485:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:01:21.61 [4316:7028:0509/080121.618:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:01:23.36 [4316:7028:0509/080123.359:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:02:44.32 [4316:7028:0509/080244.323:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 08:02:45.41 [4316:7028:0509/080245.419:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:02:53.10 [4316:7028:0509/080253.107:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:03:01.97 [4316:7028:0509/080301.976:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 08:03:13.78 [4316:7028:0509/080313.782:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+
+May 09, 2021 09:20:48.68 NEW SESSION
+May 09, 2021 09:20:48.68 [6520:8356:0509/092048.689:ERROR:device_event_log_impl.cc(214)] [09:20:48.681] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2021 09:20:48.70 [6520:880:0509/092048.705:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:20:48.70 [6520:880:0509/092048.705:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:20:48.70 [6520:880:0509/092048.705:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:20:48.70 [6520:880:0509/092048.705:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:20:48.70 [6520:880:0509/092048.705:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:21:13.47 [6520:880:0509/092113.479:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:21:15.99 [6520:880:0509/092115.996:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:21:17.38 [6520:880:0509/092117.386:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:21:17.41 [6520:880:0509/092117.417:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:21:17.59 [6520:880:0509/092117.590:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:22:00.68 [6520:880:0509/092200.682:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:22:04.44 [6520:880:0509/092204.447:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:22:05.15 [6520:880:0509/092205.154:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:22:10.14 [6520:880:0509/092210.141:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:22:12.36 [6520:880:0509/092212.364:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:23:35.19 [6520:880:0509/092335.199:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:23:36.26 [6520:880:0509/092336.262:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:23:50.50 [6520:880:0509/092350.502:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:23:53.95 [6520:880:0509/092353.956:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:24:05.52 [6520:880:0509/092405.529:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:26:45.94 [6520:880:0509/092645.944:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:26:48.40 [6520:880:0509/092648.403:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:26:51.47 [6520:880:0509/092651.471:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:27:05.42 [6520:880:0509/092705.428:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:27:16.56 [6520:880:0509/092716.561:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:32:38.15 [6520:880:0509/093238.151:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:33:32.41 [6520:880:0509/093332.417:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:33:48.77 [6520:880:0509/093348.777:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:34:01.61 [6520:880:0509/093401.616:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:34:33.46 [6520:880:0509/093433.467:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:34:33.46 [6520:8356:0509/093433.467:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 09, 2021 09:37:31.68 [7972:8208:0509/093731.682:ERROR:device_event_log_impl.cc(214)] [09:37:31.675] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2021 09:37:31.69 [7972:10192:0509/093731.697:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:37:31.69 [7972:10192:0509/093731.699:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:37:31.69 [7972:10192:0509/093731.699:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:37:31.70 [7972:10192:0509/093731.699:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:37:31.70 [7972:10192:0509/093731.699:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:37:52.36 [7972:10192:0509/093752.363:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:37:54.19 [7972:10192:0509/093754.197:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:37:55.46 [7972:10192:0509/093755.467:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:37:56.52 [7972:10192:0509/093756.527:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:38:00.61 [7972:10192:0509/093800.615:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:38:34.95 [7972:10192:0509/093834.953:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:38:36.70 [7972:10192:0509/093836.707:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:38:45.38 [7972:10192:0509/093845.385:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:38:45.72 [7972:10192:0509/093845.729:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:38:48.83 [7972:10192:0509/093848.839:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:40:11.69 [7972:10192:0509/094011.690:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:40:11.92 [7972:10192:0509/094011.925:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:40:17.19 [7972:10192:0509/094017.193:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:40:20.33 [7972:10192:0509/094020.338:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:40:29.52 [7972:10192:0509/094029.525:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:43:26.05 [7972:10192:0509/094326.055:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:43:46.95 [7972:10192:0509/094346.959:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:43:50.27 [7972:10192:0509/094350.273:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:44:03.15 [7972:10192:0509/094403.152:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:44:06.92 [7972:10192:0509/094406.928:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:49:47.08 [7972:10192:0509/094947.085:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:50:00.17 [7972:10192:0509/095000.172:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:50:02.32 [7972:10192:0509/095002.329:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:51:05.82 [7972:10192:0509/095105.824:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:51:05.82 [7972:8208:0509/095105.824:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 09, 2021 09:51:08.66 [7972:10192:0509/095108.668:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 09, 2021 09:55:38.33 [7972:10192:0509/095538.332:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:56:02.74 [7972:10192:0509/095602.741:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 09, 2021 09:56:46.73 [7972:10192:0509/095646.736:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+
+May 10, 2021 24:36:46.12 NEW SESSION
+May 10, 2021 24:36:46.12 [7248:8520:0510/003646.124:ERROR:device_event_log_impl.cc(214)] [00:36:46.124] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 10, 2021 24:36:46.16 [7248:8520:0510/003646.166:ERROR:device_event_log_impl.cc(214)] [00:36:46.167] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+May 10, 2021 24:36:46.32 [7248:7308:0510/003646.321:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:36:46.36 [7248:7308:0510/003646.322:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:36:46.36 [7248:7308:0510/003646.322:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:36:46.36 [7248:7308:0510/003646.322:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:36:46.36 [7248:7308:0510/003646.322:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:37:08.26 [7248:7308:0510/003708.265:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:37:09.47 [7248:7308:0510/003709.476:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:37:10.34 [7248:7308:0510/003710.340:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:37:13.40 [7248:7308:0510/003713.404:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:37:14.35 [7248:7308:0510/003714.355:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:37:59.05 [7248:7308:0510/003759.058:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:37:59.30 [7248:7308:0510/003759.307:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:38:01.86 [7248:7308:0510/003801.868:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:38:08.58 [7248:7308:0510/003808.588:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:38:10.75 [7248:7308:0510/003810.753:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:39:29.04 [7248:7308:0510/003929.045:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:39:42.82 [7248:7308:0510/003942.823:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:39:45.65 [7248:7308:0510/003945.659:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:39:46.65 [7248:7308:0510/003946.651:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:40:01.23 [7248:7308:0510/004001.235:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:42:13.58 [7248:7308:0510/004213.586:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:42:32.26 [7248:7308:0510/004232.267:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:42:54.43 [7248:7308:0510/004254.438:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:42:56.84 [7248:7308:0510/004256.844:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:43:16.78 [7248:7308:0510/004316.786:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:46:24.40 [6756:6096:0510/004624.407:ERROR:device_event_log_impl.cc(214)] [00:46:24.406] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 10, 2021 24:46:24.44 [6756:6096:0510/004624.440:ERROR:device_event_log_impl.cc(214)] [00:46:24.438] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+May 10, 2021 24:46:24.48 [6756:6228:0510/004624.486:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:46:24.48 [6756:6228:0510/004624.486:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:46:24.48 [6756:6228:0510/004624.487:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:46:24.48 [6756:6228:0510/004624.487:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:46:24.48 [6756:6228:0510/004624.487:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:46:45.06 [6756:6228:0510/004645.064:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:46:46.25 [6756:6228:0510/004646.251:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:46:50.29 [6756:6228:0510/004650.295:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:46:50.35 [6756:6228:0510/004650.350:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:46:52.56 [6756:6228:0510/004652.568:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:47:38.07 [6756:6228:0510/004738.075:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:47:40.35 [6756:6228:0510/004740.351:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:47:41.24 [6756:6228:0510/004741.244:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:47:48.74 [6756:6228:0510/004748.743:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:47:49.10 [6756:6228:0510/004749.107:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:49:34.47 [332:6148:0510/004934.477:ERROR:device_event_log_impl.cc(214)] [00:49:34.480] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 10, 2021 24:49:34.51 [332:6148:0510/004934.509:ERROR:device_event_log_impl.cc(214)] [00:49:34.509] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+May 10, 2021 24:49:34.51 [332:8028:0510/004934.517:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:49:34.51 [332:8028:0510/004934.517:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:49:34.52 [332:8028:0510/004934.518:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:49:34.52 [332:8028:0510/004934.518:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:49:34.52 [332:8028:0510/004934.518:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:49:54.88 [332:8028:0510/004954.880:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:49:56.88 [332:8028:0510/004956.886:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:49:57.99 [332:8028:0510/004957.998:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:49:59.46 [332:8028:0510/004959.463:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:50:00.63 [332:8028:0510/005000.632:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:50:43.35 [332:8028:0510/005043.359:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:50:44.59 [332:8028:0510/005044.594:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:50:45.19 [332:8028:0510/005045.197:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:50:48.07 [332:8028:0510/005048.070:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:50:55.38 [332:8028:0510/005055.384:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:52:42.13 [4652:3076:0510/005242.132:ERROR:device_event_log_impl.cc(214)] [00:52:42.133] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 10, 2021 24:52:42.15 [4652:3076:0510/005242.153:ERROR:device_event_log_impl.cc(214)] [00:52:42.155] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+May 10, 2021 24:52:42.16 [4652:3148:0510/005242.165:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:52:42.16 [4652:3148:0510/005242.166:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:52:42.16 [4652:3148:0510/005242.166:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:52:42.16 [4652:3148:0510/005242.166:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:52:42.16 [4652:3148:0510/005242.166:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:53:02.66 [4652:3148:0510/005302.667:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:53:04.69 [4652:3148:0510/005304.694:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:53:08.47 [4652:3148:0510/005308.470:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:53:11.59 [4652:3148:0510/005311.589:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:53:11.72 [4652:3148:0510/005311.727:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:53:47.70 [4652:3148:0510/005347.708:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:53:56.40 [4652:3148:0510/005356.404:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:53:56.40 [4652:3148:0510/005356.405:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:53:59.81 [4652:3148:0510/005359.813:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:54:07.21 [4652:3148:0510/005407.213:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:55:21.53 [4652:3148:0510/005521.533:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:55:30.69 [4652:3148:0510/005530.692:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:55:42.66 [4652:3148:0510/005542.660:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 24:55:45.80 [4652:3148:0510/005545.808:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:55:52.55 [4652:3148:0510/005552.549:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:58:17.16 [4652:3148:0510/005817.160:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:58:32.27 [4652:3148:0510/005832.273:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:58:37.10 [4652:3148:0510/005837.100:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:58:53.52 [4652:3148:0510/005853.525:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 24:59:40.73 [4652:3148:0510/005940.735:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 01:03:45.38 [4652:3148:0510/010345.388:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:04:30.44 [4652:3148:0510/010430.447:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:04:32.48 [4652:3148:0510/010432.487:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:05:48.50 [4652:3148:0510/010548.503:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:05:48.50 [4652:3076:0510/010548.504:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 10, 2021 01:06:29.42 [4652:3148:0510/010629.425:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 01:10:39.26 [4652:3148:0510/011039.269:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:11:08.07 [4652:3148:0510/011108.076:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:12:03.43 [4652:3148:0510/011203.435:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:13:35.77 [4652:3148:0510/011335.777:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:16:29.43 [4652:3148:0510/011629.429:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 01:16:37.82 [4652:3148:0510/011637.828:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:22:33.81 [4652:3148:0510/012233.816:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:22:33.81 [4652:3076:0510/012233.816:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 10, 2021 01:24:35.77 [4652:3076:0510/012435.776:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-106).
+May 10, 2021 01:26:29.44 [4652:3148:0510/012629.443:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 01:31:54.39 [4652:3148:0510/013154.398:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:32:16.39 [4652:3148:0510/013216.394:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:33:08.64 [4652:3148:0510/013308.646:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:34:35.73 [4652:3148:0510/013435.729:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:36:29.45 [4652:3148:0510/013629.453:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 01:38:32.32 [4652:3148:0510/013832.322:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:45:53.55 [4652:3148:0510/014553.549:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 01:45:53.55 [4652:3076:0510/014553.549:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 10, 2021 01:46:29.46 [4652:3148:0510/014629.460:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 01:56:29.46 [4652:3148:0510/015629.467:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 02:04:20.15 [3724:6920:0510/020420.155:ERROR:device_event_log_impl.cc(214)] [02:04:20.161] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 10, 2021 02:04:20.17 [3724:6920:0510/020420.170:ERROR:device_event_log_impl.cc(214)] [02:04:20.177] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+May 10, 2021 02:04:20.18 [3724:2032:0510/020420.186:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 02:04:20.20 [3724:2032:0510/020420.202:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:04:20.20 [3724:2032:0510/020420.202:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:04:20.20 [3724:2032:0510/020420.202:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:04:20.20 [3724:2032:0510/020420.202:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:04:41.47 [3724:2032:0510/020441.475:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:04:43.67 [3724:2032:0510/020443.672:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:04:43.84 [3724:2032:0510/020443.844:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 02:04:49.13 [3724:2032:0510/020449.133:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:04:49.44 [3724:2032:0510/020449.445:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:05:24.23 [3724:2032:0510/020524.229:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 02:05:31.84 [3724:2032:0510/020531.844:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:05:36.93 [3724:2032:0510/020536.938:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:05:38.28 [3724:2032:0510/020538.282:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:05:39.01 [3724:2032:0510/020539.018:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:06:59.78 [3724:2032:0510/020659.787:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:07:00.17 [3724:2032:0510/020700.177:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:07:03.78 [3724:2032:0510/020703.789:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 02:07:14.40 [3724:2032:0510/020714.402:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:07:15.35 [3724:2032:0510/020715.356:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:09:58.67 [3724:2032:0510/020958.670:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 02:10:02.47 [3724:2032:0510/021002.477:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:10:09.53 [3724:2032:0510/021009.533:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:10:21.39 [3724:2032:0510/021021.391:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:10:22.82 [3724:2032:0510/021022.829:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:15:46.57 [3724:2032:0510/021546.576:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:15:46.57 [3724:6920:0510/021546.576:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 10, 2021 02:16:14.94 [3724:2032:0510/021614.940:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:16:21.80 [3724:2032:0510/021621.803:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:16:36.63 [3724:2032:0510/021636.636:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 02:16:49.33 [3724:2032:0510/021649.335:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:20:44.03 [3724:2032:0510/022044.036:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:21:11.08 [3724:2032:0510/022111.088:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:22:11.08 [3724:2032:0510/022211.088:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:24:09.56 [3724:2032:0510/022409.567:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:26:36.64 [3724:2032:0510/022636.643:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 02:26:54.78 [3724:2032:0510/022654.788:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:34:37.58 [3724:2032:0510/023437.585:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:34:37.58 [3724:6920:0510/023437.585:ERROR:sharing_service.cc(206)] Device registration failed with transient error
+May 10, 2021 02:36:36.65 [3724:2032:0510/023636.650:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+May 10, 2021 02:40:37.64 NEW SESSION
+May 10, 2021 02:40:37.64 [6656:8896:0510/024037.641:ERROR:device_event_log_impl.cc(214)] [02:40:37.641] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 10, 2021 02:40:37.65 [6656:8896:0510/024037.654:ERROR:device_event_log_impl.cc(214)] [02:40:37.654] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+May 10, 2021 02:40:37.65 [6656:5704:0510/024037.655:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 02:40:37.65 [6656:5704:0510/024037.655:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:40:37.65 [6656:5704:0510/024037.656:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:40:37.65 [6656:5704:0510/024037.656:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:40:37.65 [6656:5704:0510/024037.656:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:40:57.93 [6656:5704:0510/024057.936:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:41:00.92 [6656:5704:0510/024100.927:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 02:41:04.16 [6656:5704:0510/024104.166:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:41:04.40 [6656:5704:0510/024104.402:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:41:04.72 [6656:5704:0510/024104.724:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:41:41.50 [6656:5704:0510/024141.500:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 10, 2021 02:41:45.95 [6656:5704:0510/024145.956:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+May 10, 2021 02:41:48.28 [6656:5704:0510/024148.283:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+
+May 13, 2021 04:18:54.27 NEW SESSION
+May 13, 2021 04:18:54.27 [1372:11640:0513/041854.265:ERROR:device_event_log_impl.cc(214)] [04:18:54.264] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 13, 2021 04:18:54.36 [1372:11640:0513/041854.296:ERROR:device_event_log_impl.cc(214)] [04:18:54.296] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+May 13, 2021 04:18:54.37 [1372:4324:0513/041854.304:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2021 04:19:21.64 [1372:4324:0513/041921.647:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2021 04:20:21.28 [1372:4324:0513/042021.285:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2021 04:21:55.11 [1372:4324:0513/042155.113:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2021 04:25:22.92 [1372:4324:0513/042522.922:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2021 04:32:28.27 [1372:4324:0513/043228.274:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2021 04:42:15.35 [1372:4324:0513/044215.353:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 13, 2021 04:52:15.35 [1372:4324:0513/045215.357:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+May 26, 2021 10:27:17.45 NEW SESSION
+May 26, 2021 10:27:17.45 [4280:12648:0526/102717.452:ERROR:device_event_log_impl.cc(214)] [10:27:17.452] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 26, 2021 10:27:17.49 [4280:12860:0526/102717.499:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 10:27:45.71 [4280:12860:0526/102745.714:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 10:28:33.22 [4280:12860:0526/102833.222:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 10:29:57.57 [4280:12860:0526/102957.577:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 10:32:51.17 [4280:12860:0526/103251.178:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 10:38:23.68 [4280:12860:0526/103823.679:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 10:48:23.68 [4280:12860:0526/104823.683:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 10:58:23.68 [4280:12860:0526/105823.686:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 11:44:16.03 [4280:12860:0526/114416.039:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 11:44:37.55 [4280:12860:0526/114437.550:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+May 26, 2021 12:27:58.11 [4280:12860:0526/122758.117:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
